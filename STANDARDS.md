@@ -7,6 +7,7 @@
 * Use [Flake 8](http://flake8.pycqa.org/en/latest/) for style enfocement
 * Use [Pylint](https://www.pylint.org/) for linting
 * Use `tests` directory for tests
+* Use `requirements.txt` for dependencies
 
 ## Publication
 * Include and Apache 2.0 LICENCE
