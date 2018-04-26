@@ -56,3 +56,21 @@
 
 ### Tools
   - All agreed upon coding standards should as much as possible be expressed as IDE configuration and shared among team members
+
+### Directory Tree
+Python does not restrict the way projects are structured. The following is a basic framework on how to organise a Python project.
+
+
+```
+  +-- <project>
+  |  +-- bin
+  |  +-- <project>
+  |  +-- tests
+  |  +-- requirements.txt
+  |  +-- setup.py
+  |  +-- README
+```
+
+The `bin` directory is meant to contain all executable scripts that the system may need. Inside the top level project directory is the main module directory that's the same name as the project. All automated test scripts are placed inside the `tests` directory structured in the same way as the the `<project>` directory.
+
+Other directories such as `news` for release notes or change logs, `docs` for documentation, `data` for data files, `conf` or `config` for configuration, etc. can be added to these as well, depending on the project's requirements.
