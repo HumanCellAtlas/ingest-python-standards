@@ -3,7 +3,7 @@
 ## Development
 * Use Python 3.x
 * Use Virtual Environments
-* Use the [https://www.python.org/dev/peps/pep-0008/](PEP 8) Style Guide
+* Use the [PEP 8](https://www.python.org/dev/peps/pep-0008/) Style Guide
 * Use [Flake 8](http://flake8.pycqa.org/en/latest/) for style enfocement
 * Use [Pylint](https://www.pylint.org/) for linting
 * Use `tests` directory for tests
