@@ -13,6 +13,7 @@
 * Include and Apache 2.0 LICENCE
 * Use [Travis](https://travis-ci.org/EBISPOT/SumStats) as CI
 * Use [Code Climate](https://codeclimate.com) for code analysis and code coverage
+* Also use [CodeCov](https://codecov.io/) as well code code coverage
 * Publish to [PiPy](https://pypi.org/project/hca/)
 * Show badges for the above in the project's README.md
 * Explain the purpose of the project the README.md
